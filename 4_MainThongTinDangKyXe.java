@@ -1,4 +1,4 @@
-package nguyenThanhDuy.bai06;
+package nguyenThanhDuy.bai04;
 
 public class Test_ThongTinDangKyXe {
 	public static void main(String[] args) {

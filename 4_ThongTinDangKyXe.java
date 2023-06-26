@@ -1,4 +1,4 @@
-package nguyenThanhDuy.bai06;
+package nguyenThanhDuy.bai04;
 
 import java.util.InputMismatchException;
 

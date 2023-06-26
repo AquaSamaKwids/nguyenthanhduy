@@ -1,4 +1,4 @@
-package nguyenThanhDuy.bai08;
+package nguyenThanhDuy.bai06;
 
 import java.text.NumberFormat;
 import java.util.Formatter;
